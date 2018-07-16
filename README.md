@@ -1,5 +1,5 @@
 # lists
-IP whitelist & blacklist operated by Mailbrix.mx
+IP whitelist & blacklist operated by [Mailbrix.mx](https://mailbrix.mx)
 
 Lists are updated hourly and individual records are expired after 1 day of __inactivity__.
 
