@@ -39,3 +39,8 @@ The lists are currently generated through various means, it consists mainly of I
 ## How to use
 
 You can fetch the latest whitelist and blacklist from this repository and feed it directly in your MTA, firewall or antispam solution.
+
+Direct links to latest version:
+
+- [whitelist](https://github.com/Mailbrix/lists/blob/master/whitelist)
+- [blacklist](https://github.com/Mailbrix/lists/blob/master/blacklist)
