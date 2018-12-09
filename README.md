@@ -27,6 +27,7 @@ The blacklist is intended to be fed to your firewall or MTA in order to IP-block
 
 The lists are currently generated through various means, it consists mainly of IP addresses that:
 
+- do not have rDNS and FCrDNS
 - hit mailbrix.mx operated spam traps
 - send Unsolicitated Commercial Email (UCE) to adresses subscribed to specific lists
 - brute-force addresses
